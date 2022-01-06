@@ -1,7 +1,7 @@
 # Films-vf-complets-gratuits
 Une compilation de films en français téléchargeables gratuitement.
 
-Instructions de téléchargement :
+Instructions de téléchargement : (Attention, valable uniquement sous Windows. Pour les autres OS, chercher comment déballer une archive multivolume.)
  1. Allez dans la branche de film qui vous intéresse,
  2. Cliquez sur le bouton vert |Code| puis sur |Dowload ZIP|,
  3. Attention, le téléchargement peut durer TRES TRES longtemp, ce site n'étant pas spécialisé dans le streaming (environ 15/30 minutes)
